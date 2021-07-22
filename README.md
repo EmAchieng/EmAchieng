@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+- 🔭 I’m currently working on mainly backend technologies like Django, Flask, Springboot
+- 🌱 I’m currently learning Practical and Theoretical Machine Learning and Artificial Intelligence
+- 👯 I’m looking to collaborate on React
+- 🤔 I’m looking for help with Software Testing and Analysis
+- 💬 Ask me about Why I Code Like a Girl
+- 😄 Pronouns: She/Her/Hers
+- 📫 How to reach me: emillyachieng@gmail.com
 
-<!--
-**EmAchieng/EmAchieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmAchieng&count_private=true)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmAchieng&layout=compact)](https://github.com/EmAchieng/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
