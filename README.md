@@ -1,7 +1,7 @@
 ### Hi there 👋 
-- 🔭 I’m currently working with backend technologies like Django, Flask, Springboot
+- 🔭 I’m currently working with backend technologies like Django, Flask, Springboot, PHP
 - 🌱 I’m currently learning Practical and Theoretical Machine Learning and Artificial Intelligence
-- 👯 I’m looking to collaborate on React
+- 👯 I’m looking to collaborate on Golang, Rust and React
 - 🤔 I’m looking for help with Software Testing and Analysis
 - 💬 Ask me about Why I Code Like a Girl
 - 😄 Pronouns: She/Her/Hers
