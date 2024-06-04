@@ -1,7 +1,7 @@
 ### Hi there 👋 
-- 🔭 I’m currently working with backend technologies like Django, Flask, Springboot, PHP
-- 🌱 I’m currently learning Practical and Theoretical Machine Learning and Artificial Intelligence
-- 👯 I’m looking to collaborate on Golang, Rust and React
+- 🔭 I’m currently working with containers and container orcherstration platforms like Docker, Kubernetes(k8s). I also work with backend technologies like Django, Flask, Java Springboot, PHP, Node JS, Golang. 
+- 🌱 Previously I worked extensively with Data. Doing Data Science and Practical and Theoretical Machine Learning and Artificial Intelligence
+- 👯 I’m looking to collaborate on Golang, Rust and React or anything interesting
 - 🤔 I’m looking for help with Software Testing and Analysis
 - 💬 Ask me about Why I Code Like a Girl
 - 😄 Pronouns: She/Her/Hers
