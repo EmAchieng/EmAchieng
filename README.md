@@ -7,6 +7,7 @@
 - 💬 Ask me about Why I Code Like a Girl.
 - 😄 Pronouns: She/Her/Hers.
 - 📫 How to reach me: emillyachieng@gmail.com.
+
 ### Contributions
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmAchieng&theme=radical&no-frame=true&margin-w=15&column=5&title=Commits,PullRequest,Issues,Stars,Forks)](https://github.com/ryo-ma/github-profile-trophy) 
@@ -18,6 +19,10 @@
 ### Language Metrics
 
 ![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmAchieng&layout=compact&theme=radical&langs_count=10)
+
+### Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=EmAchieng&color=blueviolet)
 
 #### Languages and Frameworks I have used:
 <p align="left">
